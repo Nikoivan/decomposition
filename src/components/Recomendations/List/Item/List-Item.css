@@ -1,0 +1,8 @@
+.list__item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.item__icon {
+  margin-right: 10px;
+}

@@ -1,0 +1,4 @@
+.page__recomendations {
+  display: flex;
+  justify-content: space-between;
+}

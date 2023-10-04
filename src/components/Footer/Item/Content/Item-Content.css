@@ -1,0 +1,7 @@
+.item__content {
+  display: flex;
+}
+
+.content__subtitle {
+  font-size: 14px;
+}
